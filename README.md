@@ -1,4 +1,4 @@
-This project aims to tackle cyberbullying using advanced deep learning techniques, particularly Recurrent Neural Networks (RNNs) and Bidirectional Long Short-Term Memory (BiLSTM). By leveraging these technologies, the goal is to develop intelligent systems capable of detecting and preventing cyberbullying behaviors on social media platforms. Ultimately, the research aims to create a safer and more positive online environment for users worldwide.
+
 # README
 
 ## Cyberbullying Detection with Machine Learning and Deep Learning Models
