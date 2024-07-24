@@ -142,8 +142,7 @@ predictions = model.predict(X_new)
 ![image](https://github.com/Sabavat-Jayanth-Naik/Final-Year-Project-Cyberbullying-detection/assets/130920035/9d4cc743-f354-4af1-a9e6-c1237f7d38de)
 ![image](https://github.com/Sabavat-Jayanth-Naik/Final-Year-Project-Cyberbullying-detection/assets/130920035/74a59832-d9c5-401a-b089-0bc6a574d974)
 ![image](https://github.com/Sabavat-Jayanth-Naik/Final-Year-Project-Cyberbullying-detection/assets/130920035/64612c04-09c7-41c4-a829-8df58f4cae83)
-![image](https://github.com/Sabavat-Jayanth-Naik/Final-Year-Project-Cyberbullying-detection/assets/130920035/62414cf4-3e20-4e73-8c6c-f178e1cd2598)
-![image](https://github.com/Sabavat-Jayanth-Naik/Final-Year-Project-Cyberbullying-detection/assets/130920035/98278eef-f2f8-41b1-b9fd-e88a87df0bb3)
+
 
 
 
