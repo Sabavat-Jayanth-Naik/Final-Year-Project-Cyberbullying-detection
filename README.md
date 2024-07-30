@@ -54,7 +54,11 @@ The classification report for the testing data is as follows:
    This graph plots the accuracy of the model over epochs for both the training and validation datasets.
 
 ![image](https://github.com/user-attachments/assets/8b43f659-7f26-4d59-ae46-5b89fb46daff)
+##
+   - **X-Axis:** Epochs
+   - **Y-Axis:** Loss
 ![image](https://github.com/user-attachments/assets/92e8380b-5f55-45a6-a3c2-9a1a99bf024c)
 
 
-
+### Conclusion
+The BiLSTM model achieves a high accuracy of 91.96% on the testing data, demonstrating its effectiveness in detecting cyberbullying in tweets. The precision, recall, and F1-score are particularly high for the "cyberbullying" class, making it a reliable model for this task.
